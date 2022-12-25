@@ -1,0 +1,24 @@
+# 小猪比机器人基本配置
+
+# 数据库配置
+database:
+    dbname: 'QQBot' # 数据库名
+    dbuser: '' # 数据库用户名
+    dbpassword: '' # 数据库密码
+    dbhost: '' # 数据库地址
+    
+# 聊天设置
+chat:
+    # 主人设置
+    owner: 2417481092 # 正主人
+
+# 自身设置
+self:
+    defaultUuid: '123456789' # 默认uuid
+    pswd: '' # 默认uuid的通信密钥
+
+# 运行设置
+run:
+    port: 1000 # 此项已作废
+    debug: true # 是否开启debug
+    host: '0.0.0.0' # 主机

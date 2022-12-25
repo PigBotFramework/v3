@@ -1,0 +1,14 @@
+*.sh
+*.log
+resources/createimg/
+__pycache__
+*.out
+plugins/
+data.yaml
+timer.py
+sendmail.py
+core.*
+build/
+dist/
+pbf.egg-info/
+resources/_h5ai/
