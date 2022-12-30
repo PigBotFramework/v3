@@ -41,7 +41,7 @@ app.add_middleware(
 
 def checkPassword(password):
     current_password_bytes = password.encode("utf8")
-    correct_password_bytes = b"Xu015300"
+    correct_password_bytes = b"Your Password"
     is_correct_password = secrets.compare_digest(
         current_password_bytes, correct_password_bytes
     )
