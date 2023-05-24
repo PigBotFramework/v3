@@ -1,3 +1,8 @@
+# 注意
+**介于该版本接口混乱，性能落后，开发方式落后，该版本已经停止更新与维护，请移步新的[v4版本](https://github.com/PigBotFramework/v4)！**
+
+---
+
 # PigBotFramework
 小猪比机器人
 
